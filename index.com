@@ -119,7 +119,7 @@
             <h2>文生视频：教子有方</h2>
             <p>以下是成语“教子有方”的完整文生视频，展现古代家庭教育的智慧。</p>
             <video controls>
-                <source src="your-video-url.mp4" type="video/mp4">
+                <source src="https://github.com/ZYFX-hkx/sp/raw/refs/heads/main/shipin.mp4" type="video/mp4">
                 您的浏览器不支持视频播放。
             </video>
         </section>
@@ -129,24 +129,24 @@
             <h2>视频关键帧展示</h2>
             <div class="frame">
                 <div class="frame-item">
-                    <img src="frame1.jpg" alt="父亲教子">
+                    <img src="https://github.com/ZYFX-hkx/sp/blob/main/11.png?raw=true" alt="父亲教子">
                     <p>孩子坐在书案前认真学习，烛光摇曳，充满希望。</p>
                 </div>
                 <div class="frame-item">
-                    <img src="frame2.jpg" alt="儿子专注学习">
-                    <p>窗外风景变化，孩子不受影响。</p>
+                    <img src="https://github.com/ZYFX-hkx/sp/blob/main/12.png?raw=true" alt="儿子专注学习">
+                    <p>孩子打算翻页。</p>
                 </div>
                 <div class="frame-item">
-                    <img src="frame3.jpg" alt="实践教学">
-                    <p>转眼已入白天孩子向父亲请教。</p>
+                    <img src="https://github.com/ZYFX-hkx/sp/blob/main/13.png?raw=true" alt="实践教学">
+                    <p>孩子合上书准备问问题。</p>
                 </div>
                 <div class="frame-item">
-                    <img src="frame4.jpg" alt="家庭分享时光">
-                    <p>父亲在窗边听着孩子的讲述。</p>
+                    <img src="https://github.com/ZYFX-hkx/sp/blob/main/14.png?raw=true" alt="家庭分享时光">
+                    <p>孩子打算向父亲请教。</p>
                 </div>
                 <div class="frame-item">
-                    <img src="frame5.jpg" alt="儿子成长">
-                    <p>孩子十分高兴。</p>
+                    <img src="https://github.com/ZYFX-hkx/sp/blob/main/15.png?raw=true" alt="儿子成长">
+                    <p>父亲躺在窗户边听孩子的讲述。</p>
                 </div>
             </div>
         </section>
